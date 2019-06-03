@@ -19,6 +19,7 @@
                 <category android:name="android.intent.category.LEANBACK_LAUNCHER"/>
             </intent-filter>
             <meta-data android:name="unityplayer.UnityActivity" android:value="true"/>
+            <meta-data android:name="unityplayer.SkipPermissionsDialog" android:value="false" />
         </activity>
         <meta-data android:name="unity.build-id" android:value="43dda80d-029e-4d33-8ece-db1380a869d7"/>
         <meta-data android:name="unity.splash-mode" android:value="0"/>
